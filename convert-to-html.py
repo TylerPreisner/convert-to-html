@@ -16,7 +16,7 @@ newdictionary = {
     "title": "",
     "description": "",
     "sections": "",
-# example of how the layout of the list is "section1": ['title','test title','paragraphs', '0', 'codeblocks', '0', ';', 'paragraph:', '', 'codeblock:','paragraph:'],
+# example of how the layout of the list is "section1": ['title','test title','paragraphs', '0', 'codeblocks', '0', ';', 'paragraph:', '', 'codeblock:', '','paragraph:'],
 }
 
 #reads through the lines in the file
